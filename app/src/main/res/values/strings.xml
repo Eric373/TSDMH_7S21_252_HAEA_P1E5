@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TSDMH_7S21_252_HAEA_P1E5</string>
+    <string name="p1t1">Confirmacion de actividades</string>
+
+    <string name="p1l1">Ingrese su nombre</string>
+    <string name="p1h1">Aqui tu nombre</string>
+    <string name="p1btn1">Confirma saludo!!!</string>
+
+    <string name="p2t1">Confirmacion de mensaje</string>
+    <string name="p2btn1">Aceptar mensaje</string>
+    <string name="p2btn2">Cancelar</string>
+</resources>
